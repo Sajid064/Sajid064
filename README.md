@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Sajid064/Sajid064/blob/main/Background.png)
 <h1 align="center">Hi 👋, this is Md. Sajid Alam Chowdhury</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
