@@ -35,7 +35,7 @@
 <br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid064&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="sajid064" width="335px"/> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid064&theme=radical&hide_border=false" alt="sajid064" width="470px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid064&theme=radical&hide_border=false" alt="sajid064" width="468px"/>
 </p>
 <br>
 <p>
