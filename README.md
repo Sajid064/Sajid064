@@ -11,8 +11,10 @@
 <p align="left"> <a href="https://twitter.com/sajidijas" target="blank"><img src="https://img.shields.io/twitter/follow/sajidijas?logo=twitter&style=for-the-badge" alt="sajidijas" /></a> </p>
 
 - Final-year CS undergrad at CUET
+  
+- Passionate about Competitive Programming 
 
-- Experienced in Machine Learning, Deep Learning, and Competitive Programming
+- Experienced in Machine Learning, Deep Learning
 
 <br>
 
