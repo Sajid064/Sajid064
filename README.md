@@ -14,7 +14,7 @@
   
 - Passionate about Competitive Programming 
 
-- Experienced in Machine Learning, Deep Learning
+- Experienced in Machine Learning and Deep Learning
 
 <br>
 
